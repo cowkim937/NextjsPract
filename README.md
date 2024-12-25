@@ -1,1 +1,1 @@
-#React 연습
+#React / Next.js 연습
